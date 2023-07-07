@@ -10,3 +10,8 @@ Then the user can click into a time block and enter an event
 When clicked on the save button on the right for that time block,
 then the text for that event is saved in local storage
 
+<img src="assets/Screenshot 2023-07-06 at 9.37.51 PM.png">
+
+# Reposirtory link 
+(https://github.com/Holgersend/calendar-application)
+# Website link
